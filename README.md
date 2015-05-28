@@ -1,4 +1,5 @@
-#cookbook
+#The Cookbook Project
+
 This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
 ##Marc Nischan
@@ -32,6 +33,6 @@ Now throw in a handful of cheese and the chopped cilantro. Now it's time to asse
 
 Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
-
+=============================
 		
 
