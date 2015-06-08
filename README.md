@@ -35,4 +35,28 @@ Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
 =============================
 		
+##NikolSpencer
 
+###Gluten Free Egg Free Pancakes
+
+1 cup of gluten free all-purpose flour
+1 tablespoon ground flax seed (flax meal)
+2 teaspoons baking powder
+2 teaspoons ground cinnamon
+¼ teaspoon salt
+2 tablespoons maple syrup
+1 teaspoon vanilla
+¼ cup of unsweetened applesauce
+1 cup of almond milk
+
+####Instructions
+
+In a medium size mixing bowl, sift together flour, flax meal, baking powder, cinnamon, and salt.
+
+In a separate bowl, combine maple syrup, vanilla, applesauce, and milk. Slowly mix in half of the liquid into dry bowl, stirring continuously, and the rest ¼ cup at a time to avoid a runny batter. Mix until you get the lumps out of the batter. You don't want it to be too thick or too runny. There's a happy medium and 1 cup + 2-ish tablespoons should be just about right.
+
+On a greased, heated griddle over medium heat (or pan on your stovetop), begin to cook pancakes about a ¼ cup of the batter for each one.
+
+Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for another 1-2 minutes. Remove from pan and serve.
+
+=============================
