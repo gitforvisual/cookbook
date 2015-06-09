@@ -37,6 +37,7 @@ Bring this to a boil and reduce heat to simmer, cover for for 30-45 minutes or u
 Now throw in a handful of cheese and the chopped cilantro. Now it's time to asses your mix. Is it thick enough? Could it use a little more broth? how about more tomatoes? Is it smoky tasting and spicy enough? Add a tiny bit more of the adobo if it's not. More cheese if it's too thin. Careful with the cheese.
 
 Serve with the tortilla strips and squeeze the lime over it. Enjoy!
+
 ##NikolSpencer
 
 ###Gluten Free Egg Free Pancakes
