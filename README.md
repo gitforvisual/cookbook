@@ -61,4 +61,3 @@ On a greased, heated griddle over medium heat (or pan on your stovetop), begin t
 
 Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for another 1-2 minutes. Remove from pan and serve.
 
-=============================
