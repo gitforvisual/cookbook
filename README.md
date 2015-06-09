@@ -42,15 +42,15 @@ Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
 ###Gluten Free Egg Free Pancakes
 
-1 cup of gluten free all-purpose flour
-1 tablespoon ground flax seed (flax meal)
-2 teaspoons baking powder
-2 teaspoons ground cinnamon
-¼ teaspoon salt
-2 tablespoons maple syrup
-1 teaspoon vanilla
-¼ cup of unsweetened applesauce
-1 cup of almond milk
+- 1 cup of gluten free all-purpose flour
+- 1 tablespoon ground flax seed (flax meal)
+- 2 teaspoons baking powder
+- 2 teaspoons ground cinnamon
+- ¼ teaspoon salt
+- 2 tablespoons maple syrup
+- 1 teaspoon vanilla
+- ¼ cup of unsweetened applesauce
+- 1 cup of almond milk
 
 ####Instructions
 
