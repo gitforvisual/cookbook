@@ -2,6 +2,11 @@
 
 This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
+###Toast
+
+put bread in toaster.
+wait.
+
 ##Marc Nischan
 
 ###Tortilla soup
@@ -33,8 +38,6 @@ Now throw in a handful of cheese and the chopped cilantro. Now it's time to asse
 
 Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
-=============================
-		
 ##NikolSpencer
 
 ###Gluten Free Egg Free Pancakes
@@ -59,4 +62,3 @@ On a greased, heated griddle over medium heat (or pan on your stovetop), begin t
 
 Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for another 1-2 minutes. Remove from pan and serve.
 
-=============================
