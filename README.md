@@ -2,11 +2,6 @@
 
 This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
-###Toast
-
-put bread in toaster.
-wait.
-
 ##Marc Nischan
 
 ###Tortilla soup
