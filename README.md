@@ -11,18 +11,18 @@ wait.
 
 ###Tortilla soup
 
-Some canola and/or olive oil
-1 pound chicken breast tenders, cut into bite-sized pieces
-1 large (28oz) can stewed tomatoes, undrained. 
-1 box of Trader Joe's chicken broth - 24-28oz-ish
-2 teaspoons fresh minced or crushed garlic
-1 tsp Tony Chachere's "More Spice" seasoning 
-1 teaspoon ground cumin
-1/4 cup chopped fresh cilantro
-A smallish chunk of adobo chili pepper (get them in a can with the sauce)
-A handful of shredded cheddar cheese.
-1 bag of tortilla strips
-1 lime, cut into wedges
+-Some canola and/or olive oil
+-1 pound chicken breast tenders, cut into bite-sized pieces
+-1 large (28oz) can stewed tomatoes, undrained. 
+-1 box of Trader Joe's chicken broth - 24-28oz-ish
+-2 teaspoons fresh minced or crushed garlic
+-1 tsp Tony Chachere's "More Spice" seasoning 
+-1 teaspoon ground cumin
+-1/4 cup chopped fresh cilantro
+-A smallish chunk of adobo chili pepper (get them in a can with the sauce)
+-A handful of shredded cheddar cheese.
+-1 bag of tortilla strips
+-1 lime, cut into wedges
 
 ####Instructions
 
