@@ -2,7 +2,7 @@
 
 This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
-##Marc Nischan
+##Marc Nischan, PhD
 
 ###Tortilla soup
 
@@ -33,7 +33,7 @@ Now throw in a handful of cheese and the chopped cilantro. Now it's time to asse
 
 Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
-Roasted Garlic Spread
+###Roasted Garlic Spread
 
 This, along with brie and a nice bottle of red, is my de facto go-to party dish. It fairly cheap and easy, and it’s always a hit. Prep time: 10 minutes. Cook time: An hour to an hour and 15 minutes.
 
@@ -43,6 +43,8 @@ Ground pepper
 Sea Salt
 Aluminum Foil
 A baking tray or pie dish
+
+####Instructions
 
 Pre-heat your oven to 375. Take each clove and remove any really flaky skin. Cut off the top of the bulb so that most of the tops of the cloves are exposed. I find that a bread knife works really well for this. 
 
