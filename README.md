@@ -21,17 +21,24 @@ This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
 ####Instructions
 
-Lorem ipsum
+Dump about 1 tsp or so of canola oil in a pan and sauté the garlic and chicken for a couple of minutes until the chicken is all white but not browning. 1345246357467879
+1231243463567345613451345
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras venenatis nibh sit amet turpis rutrum suscipit. Maecenas sed elit in arcu vehicula eleifend. Aliquam laoreet orci at velit facilisis, vel accumsan dui blandit. Aenean iaculis at augue ac sollicitudin. Sed sed purus id justo laoreet fringilla. Vivamus cursus laoreet massa, quis tempor elit venenatis quis. Sed vitae consequat augue, ultricies dignissim mi. Nam iaculis elit elit, eu dictum lacus sagittis ut. Fusce porta egestas pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas felis ante, vestibulum ac posuere rutrum, viverra a turpis.
+q345245657
 
-Dump about 1 tsp or so of canola oil in a pan and sauté the garlic and chicken for a couple of minutes until the chicken is all white but not browning. I add a little olive oil too just because I like olive oil. 
+I add a little olive oil too just because I like olive oil. 
 
 Dump all of that in to a stew pot. Add almost all of the broth box, the cumin and Tony Chachere's, stir that around, and add about 3/4 of the tomatoes and accompanying juice. I like to cut the tomatoes into smaller pieces, halves or quarters.
 
 Finely chop a quarter-sized piece of the adobo chili and add it to the broth. Chop it fine so it dissolves into the broth. A little goes a long way and you can always add more.
 
 Bring this to a boil and reduce heat to simmer, cover for for 30-45 minutes or until the chicken and tomatoes start to break up. 
+
+
+
+3452342464 
+q2343453464575e68
+
 
 Now throw in a handful of cheese and the chopped cilantro. Now it's time to asses your mix. Is it thick enough? Could it use a little more broth? how about more tomatoes? Is it smoky tasting and spicy enough? Add a tiny bit more of the adobo if it's not. More cheese if it's too thin. Careful with the cheese.
 
@@ -87,7 +94,3 @@ On a greased, heated griddle over medium heat (or pan on your stovetop), begin t
 Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for another 1-2 minutes. Remove from pan and serve.
 
 ---
-
-Lorem ipsum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras venenatis nibh sit amet turpis rutrum suscipit. Maecenas sed elit in arcu vehicula eleifend. Aliquam laoreet orci at velit facilisis, vel accumsan dui blandit. Aenean iaculis at augue ac sollicitudin. Sed sed purus id justo laoreet fringilla. Vivamus cursus laoreet massa, quis tempor elit venenatis quis. Sed vitae consequat augue, ultricies dignissim mi. Nam iaculis elit elit, eu dictum lacus sagittis ut. Fusce porta egestas pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas felis ante, vestibulum ac posuere rutrum, viverra a turpis.
