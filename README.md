@@ -2,7 +2,7 @@
 
 This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
-##Marc Nischan, PhD
+##Marc Nischan
 
 ###Tortilla soup
 
@@ -27,9 +27,9 @@ Dump all of that in to a stew pot. Add almost all of the broth box, the cumin an
 
 Finely chop a quarter-sized piece of the adobo chili and add it to the broth. Chop it fine so it dissolves into the broth. A little goes a long way and you can always add more.
 
-Bring this to a boil and reduce heat to simmer, cover for for 30-45 minutes or until the chicken and tomatoes start to break up. 
+Bring this to a boil and reduce heat to simmer, cover for for 30-45 minutes or until the chicken and tomatoes start to break up.
 
-Now throw in a handful of cheese and the chopped cilantro. Now it's time to asses your mix. Is it thick enough? Could it use a little more broth? how about more tomatoes? Is it smoky tasting and spicy enough? Add a tiny bit more of the adobo if it's not. More cheese if it's too thin. Careful with the cheese.
+Throw in a handful of cheese and the chopped cilantro. Now it's time to asses your mix. Is it thick enough? Could it use a little more broth? how about more tomatoes? Is it smoky tasting and spicy enough? Add a tiny bit more of the adobo if it's not. More cheese if it's too thin. Careful with the cheese.
 
 Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
@@ -52,7 +52,7 @@ Take a square of aluminum foil, place a bulb in the center, and wrap the foil up
 
 Grind a little salt and pepper on the tops, and then finish sealing the foil by crunching it all together over the top. It’s important to seal it up so the garlic stays moist. Also, I’ve tried putting multiple bulbs in one piece of foil and the garlic didn’t cook.
 
-Put them in the center of the oven and bake for an hour. Pull out a bulb with an oven mitt and give it a light squeeze. It should be mushy. If it’s not, put it back in for 15 minutes.
+Put them in the center of the oven and bake for an hour. Pull out a bulb with an oven mitt and give it a light squeeze. It should be mushy. If it’s not, put it back in for 10 or 15 minutes.
 
 When it’s finished cooking, pull it out of the oven to cool for a while. Into a bowl, squeeze the bulb so that all of the baked garlic oozes out. It should have the consistency of peanut butter. Squeeze out as much garlic as you can and then whip it with a fork. Done! Delicious with brie on crackers or by itself on toasted and buttered baguette slices. 
 
@@ -83,17 +83,4 @@ On a greased, heated griddle over medium heat (or pan on your stovetop), begin t
 Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for another 1-2 minutes. Remove from pan and serve.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
