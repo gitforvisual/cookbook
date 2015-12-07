@@ -84,3 +84,15 @@ Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for
 
 ---
 
+##TerryMcKee
+
+###Scrambled Eggs
+
+- 3 eggs
+- Pinch of Salt
+
+####Instructions
+
+Mix eggs in a medium-sized mixing bowl.  Pour eggs into a skillet and put on medium-low heat.  Fold eggs as they are cooking.  Add a pinch of salt.  Once consistency is to desired texture, move eggs to plate. Consume.
+
+---
