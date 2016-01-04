@@ -8,10 +8,10 @@ This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
 - Some canola and/or olive oil
 - 1 pound chicken breast tenders, cut into bite-sized pieces
-- 1 large (28oz) can stewed tomatoes, undrained. 
+- 1 large (28oz) can stewed tomatoes, undrained.
 - 1 box of Trader Joe's chicken broth - 24-28oz-ish
 - 2 teaspoons fresh minced or crushed garlic
-- 1 tsp Tony Chachere's "More Spice" seasoning 
+- 1 tsp Tony Chachere's "More Spice" seasoning
 - 1 teaspoon ground cumin
 - 1/4 cup chopped fresh cilantro
 - A smallish chunk of adobo chili pepper (get them in a can with the sauce)
@@ -21,7 +21,7 @@ This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
 ####Instructions
 
-Dump about 1 tsp or so of canola oil in a pan and sauté the garlic and chicken for a couple of minutes until the chicken is all white but not browning. I add a little olive oil too just because I like olive oil. 
+Dump about 1 tsp or so of canola oil in a pan and sauté the garlic and chicken for a couple of minutes until the chicken is all white but not browning. I add a little olive oil too just because I like olive oil.
 
 Dump all of that in to a stew pot. Add almost all of the broth box, the cumin and Tony Chachere's, stir that around, and add about 3/4 of the tomatoes and accompanying juice. I like to cut the tomatoes into smaller pieces, halves or quarters.
 
@@ -46,7 +46,7 @@ A baking tray or pie dish
 
 ####Instructions
 
-Pre-heat your oven to 375. Take each clove and remove any really flaky skin. Cut off the top of the bulb so that most of the tops of the cloves are exposed. I find that a bread knife works really well for this. 
+Pre-heat your oven to 375. Take each clove and remove any really flaky skin. Cut off the top of the bulb so that most of the tops of the cloves are exposed. I find that a bread knife works really well for this.
 
 Take a square of aluminum foil, place a bulb in the center, and wrap the foil up around the sides, but don’t fully close it. You will need to get oil, salt, and pepper in there still. So, do that next. Drizzle olive oil on the top of the bulb - use your best guess as to how much but I usually use about a teaspoon. The oil will flavor the garlic, but it also helps it to cook. So if you don’t put enough on, you may be disappointed.
 
@@ -54,7 +54,7 @@ Grind a little salt and pepper on the tops, and then finish sealing the foil by 
 
 Put them in the center of the oven and bake for an hour. Pull out a bulb with an oven mitt and give it a light squeeze. It should be mushy. If it’s not, put it back in for 10 or 15 minutes.
 
-When it’s finished cooking, pull it out of the oven to cool for a while. Into a bowl, squeeze the bulb so that all of the baked garlic oozes out. It should have the consistency of peanut butter. Squeeze out as much garlic as you can and then whip it with a fork. Done! Delicious with brie on crackers or by itself on toasted and buttered baguette slices. 
+When it’s finished cooking, pull it out of the oven to cool for a while. Into a bowl, squeeze the bulb so that all of the baked garlic oozes out. It should have the consistency of peanut butter. Squeeze out as much garlic as you can and then whip it with a fork. Done! Delicious with brie on crackers or by itself on toasted and buttered baguette slices.
 
 ---
 
@@ -96,3 +96,42 @@ Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for
 Mix eggs in a medium-sized mixing bowl.  Pour eggs into a skillet and put on medium-low heat.  Fold eggs as they are cooking.  Add a pinch of salt.  Once consistency is to desired texture, move eggs to plate. Consume.
 
 ---
+##JoshHennagir
+
+###Worlds Best Lasagna
+
+- 1 pound sweet Italian sausage 
+- 3/4 pound lean ground beef
+ - 1/2 cup minced onion 
+- 2 cloves garlic, crushed 
+- 1 (28 ounce) can crushed tomatoes
+ - 2 (6 ounce) cans tomato paste 
+- 2 (6.5 ounce) cans canned tomato sauce 
+- 1/2 cup water 
+- 2 tablespoons white sugar 
+- 1 1/2 teaspoons dried basil leaves 
+- 1/2 teaspoon fennel seeds 
+- 1 teaspoon Italian seasoning 
+- 1 tablespoon salt 
+- 1/4 teaspoon ground black pepper
+ - 4 tablespoons chopped fresh parsley 
+- 12 lasagna noodles 
+- 16 ounces ricotta cheese
+ - 1 egg
+ - 1/2 teaspoon salt
+ - 3/4 pound mozzarella cheese, sliced 
+- 3/4 cup grated Parmesan cheese 
+
+####Instructions
+
+In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons
+parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.
+
+Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt.
+
+Preheat oven to 375 degrees F (190 degrees C).
+
+To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over
+mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.
+
+Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.
