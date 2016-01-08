@@ -135,3 +135,18 @@ To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking
 mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.
 
 Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.
+
+---
+##Christian Byrd
+
+### Yummy Bagels
+
+#####A recipe for bagels
+
+1. Have bagels
+2. Have toaster
+3. Have cream cheese
+4. Put bagels into toaster and select your desired crunchiness
+5. Pull down lever to start bageling'
+6. When bagels are ready, spread cream cheese all over it.
+7. Eat and repeat.
