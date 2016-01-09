@@ -149,4 +149,4 @@ Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 mi
 4. Put bagels into toaster and select your desired crunchiness
 5. Pull down lever to start bageling'
 6. When bagels are ready, spread cream cheese all over it.
-7. Eat and repeat.
+7. Eat and repeat...
