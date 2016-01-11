@@ -150,3 +150,5 @@ Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 mi
 5. Pull down lever to start bageling'
 6. When bagels are ready, spread cream cheese all over it.
 7. Eat and repeat.
+
+++++
