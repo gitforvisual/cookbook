@@ -159,10 +159,10 @@ Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 mi
 
 ##### Ingredients
 
-- 6 large ripe peaches - peeled, pitted and sliced 
-- 1 tablespoon fresh lemon juice 
+- 6 large ripe peaches - peeled, pitted and sliced
+- 1 tablespoon fresh lemon juice
 - 2 (8 ounce) containers vanilla yogurt
-- 1 teaspoon lemon zest 
+- 1 teaspoon lemon zest
 - 1 (10 inch) prepared angel food cake
 
 ##### Preparation
@@ -177,3 +177,45 @@ Place remaining cake squares over the yogurt. Top with peaches, reserving 5 or 6
 Cover with remaining yogurt mixture. Garnish with peach slices. Refrigerate until ready to serve.
 
 ==========================
+
+### s0ba
+## Ochazuke
+##### ( Green Tea Over Rice )
+
+##### Ingredients
+
+- 2 cups cooked Brown Rice (for a Bland - Diet see Ann’s Tips)
+- ¼ cup chopped blanched spinach
+- 1 teaspoon toasted sesame seeds (optional)
+- 2 teaspoons chopped scallions (optional)
+- 2 teaspoons miso paste (not-optional!)
+- 2 cups brewed green tea
+- Nori
+- 1 chicken breast medium
+- Gluten free soy sauce
+
+##### Instructions
+
+Cook the rice to personal preference. A good bet (if using a pan) is to use 2x the measurement of the rice, for the amount of water. This applies to regular brown rice however. If you happen to have brown sushi rice or sticky rice, then add just a little more water than the measured amount of rice.
+
+	E.g.
+
+	- 1 cup of brown rice = 2 cups of water.
+
+	- 1 cup of brown sushi rice or sticky rice = 1 and a bit cups (or there abouts..) of water.
+
+If you have some spare, its nice to spread some Miso paste on the raw chicken before cooking it.
+
+Once the chicken is cooked and the Green Tea brewed. Add a Teaspoon Miso Paste to a bowl and pour over the hot Green tea - stir thoroughly.
+
+Now add all the ingredients into the bowl and cover. Wait  2 - 3 mins or until just cool enough to eat then enjoy!
+
+- Add soy sauce to taste.
+
+##### Original recipe modified & pinched from:
+
+http://www.cookforyourlife.org/recipes/green-tea-over-rice-ochazuke/
+
+Thanks Ann!
+
+---
