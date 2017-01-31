@@ -218,4 +218,36 @@ http://www.cookforyourlife.org/recipes/green-tea-over-rice-ochazuke/
 
 Thanks Ann!
 
----
+==========================
+
+### ben
+## Mash-topped beef & Guinness pie
+
+##### Ingredients
+2 onions
+2 cloves of garlic
+2 carrots
+3 stalks of celery
+2 fresh bay leaves
+½ a bunch of fresh thyme
+olive oil
+500 g stewing beef (2.5cm dice)
+3 tablespoons flour
+600 ml Guinness
+2 teaspoons brown sugar
+450 g potatoes
+75 ml milk
+1 tablespoon butter
+
+####Method
+Peel and roughly chop the onions, garlic and carrots, then trim and roughly chop the celery. Tie the bay and thyme sprigs together with string.
+Heat 2 tablespoons of oil in a large casserole pan over a medium heat. and add the vegetables and herbs. Toss everything in the oil to coat, then season.
+Cook, covered, for 10 minutes, or until the veg is softening, stirring occasionally. Transfer to a plate.
+Toss the beef in the flour and season, then add to the pan and cook until browned all over (you may need to do this in batches).
+Deglaze the pan with the Guinness. Add the veg and herbs, then top up with water if needed, to just cover the meat and veg.
+Stir in the brown sugar. Bring to the boil, then cover and simmer for about 2 hours, or until the meat is tender.
+Cook the potatoes in a large pan of boiling salted water, then drain.
+Mash with the milk, butter and a pinch of sea salt and black pepper.
+Preheat the oven to 200ºC/400ºF/gas 6.
+Put the meat in an ovenproof dish, top with the mash and drizzle with oil. 
+Bake for 20 minutes, or until golden and crisping up.
