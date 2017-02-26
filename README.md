@@ -251,3 +251,15 @@ Mash with the milk, butter and a pinch of sea salt and black pepper.
 Preheat the oven to 200ºC/400ºF/gas 6.
 Put the meat in an ovenproof dish, top with the mash and drizzle with oil. 
 Bake for 20 minutes, or until golden and crisping up.
+
+==========================
+
+### jjatte
+
+##Slow-Cooker Chicken Tortilla Soup
+
+####Directions
+1 Spray 5- to 6-quart slow cooker with cooking spray. In 12-inch nonstick skillet, heat oil over medium-high heat. Add chicken to skillet; sprinkle with salt and pepper. Cook 4 minutes, turning once, until browned on both sides. Place chicken in slow cooker. Add water, broth, tomatoes, corn, enchilada sauce, onion, green chiles, cumin and chili powder.
+2 Cover; cook on Low heat setting 4 hours or until chicken is tender. Remove chicken from slow cooker to plate; shred using 2 forks. Return chicken to slow cooker. Stir in cilantro. Cover; cook 30 minutes longer. Top each serving with 1/2 cup crushed tortilla chips and 1 tablespoon sour cream.
+
+==========================
