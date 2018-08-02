@@ -288,3 +288,15 @@ INGREDIENTS
 1/4 pound cheddar, grated
 Lime wedges, for serving
 
+--------------------------
+
+##BriitaniDesign New
+
+###Over Easy Eggs
+2 eggs
+Pinch of Salt and Pepper
+ 
+ ####Instructions
+ Crack egg in hot oiled pan on stove. Let it cook till whites are hard then flip over. Let cook for 30 seconds then serve.
+
+ +++++++++++++
