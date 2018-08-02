@@ -1,10 +1,10 @@
-#The Cookbook Project
+# The Cookbook Project
 
 This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
-##Marc Nischan
+## Marc Nischan
 
-###Tortilla soup
+### Tortilla soup
 
 - Some canola and/or olive oil
 - 1 pound chicken breast tenders, cut into bite-sized pieces
@@ -19,7 +19,7 @@ This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 - 1 bag of tortilla strips
 - 1 lime, cut into wedges
 
-####Instructions
+#### Instructions
 
 Dump about 1 tsp or so of canola oil in a pan and sauté the garlic and chicken for a couple of minutes until the chicken is all white but not browning. I add a little olive oil too just because I like olive oil.
 
@@ -33,7 +33,7 @@ Throw in a handful of cheese and the chopped cilantro. Now it's time to asses yo
 
 Serve with the tortilla strips and squeeze the lime over it. Enjoy!
 
-###Roasted Garlic Spread
+### Roasted Garlic Spread
 
 This, along with brie and a nice bottle of red, is my de facto go-to party dish. It fairly cheap and easy, and it’s always a hit. Prep time: 10 minutes. Cook time: An hour to an hour and 15 minutes.
 
@@ -44,7 +44,7 @@ Sea Salt
 Aluminum Foil
 A baking tray or pie dish
 
-####Instructions
+#### Instructions
 
 Pre-heat your oven to 375. Take each clove and remove any really flaky skin. Cut off the top of the bulb so that most of the tops of the cloves are exposed. I find that a bread knife works really well for this.
 
@@ -58,9 +58,9 @@ When it’s finished cooking, pull it out of the oven to cool for a while. Into 
 
 ---
 
-##NikolSpencer
+## NikolSpencer
 
-###Gluten Free Egg Free Pancakes
+### Gluten Free Egg Free Pancakes
 
 - 1 cup of gluten free all-purpose flour
 - 1 tablespoon ground flax seed (flax meal)
@@ -72,7 +72,7 @@ When it’s finished cooking, pull it out of the oven to cool for a while. Into 
 - ¼ cup of unsweetened applesauce
 - 1 cup of almond milk
 
-####Instructions
+#### Instructions
 
 In a medium size mixing bowl, sift together flour, flax meal, baking powder, cinnamon, and salt.
 
@@ -84,21 +84,21 @@ Cook 1-2 minutes until they start to bubble around the edges, and flip. Cook for
 
 ---
 
-##TerryMcKee
+## TerryMcKee
 
-###Scrambled Eggs
+### Scrambled Eggs
 
 - 3 eggs
 - Pinch of Salt
 
-####Instructions
+#### Instructions
 
 Mix eggs in a medium-sized mixing bowl.  Pour eggs into a skillet and put on medium-low heat.  Fold eggs as they are cooking.  Add a pinch of salt.  Once consistency is to desired texture, move eggs to plate. Consume.
 
 ---
-##JoshHennagir
+## JoshHennagir
 
-###Worlds Best Lasagna
+### Worlds Best Lasagna
 
 - 1 pound sweet Italian sausage 
 - 3/4 pound lean ground beef
@@ -122,7 +122,7 @@ Mix eggs in a medium-sized mixing bowl.  Pour eggs into a skillet and put on med
  - 3/4 pound mozzarella cheese, sliced 
 - 3/4 cup grated Parmesan cheese 
 
-####Instructions
+#### Instructions
 
 In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons
 parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.
@@ -137,23 +137,23 @@ mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top wi
 Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.
 
 ---
-##Christian Byrd
+## Christian Byrd
 
 ### Yummy Bagels
 
-#####A recipe for bagels
+##### A recipe for bagels
 
 1. Have bagels
 2. Have toaster
 3. Have cream cheese
 4. Put bagels into toaster and select your desired crunchiness
-5. Pull down lever to start bageling'
+5. Pull down lever to start bageling.
 6. When bagels are ready, spread cream cheese all over it.
 7. Eat and repeat.
 
-++++
 ==========================
-##Vlastimir Radojevic
+
+## Vlastimir Radojevic
 
 ### Fresh Peach Trifle
 
@@ -202,7 +202,7 @@ Cook the rice to personal preference. A good bet (if using a pan) is to use 2x t
 
 	- 1 cup of brown rice = 2 cups of water.
 
-	- 1 cup of brown sushi rice or sticky rice = 1 and a bit cups (or there abouts..) of water.
+	- 1 cup of brown sushi rice or sticky rice = 1 and a bit cups (or thereabouts..) of water.
 
 If you have some spare, its nice to spread some Miso paste on the raw chicken before cooking it.
 
@@ -239,7 +239,7 @@ olive oil
 75 ml milk
 1 tablespoon butter
 
-####Method
+#### Method
 Peel and roughly chop the onions, garlic and carrots, then trim and roughly chop the celery. Tie the bay and thyme sprigs together with string.
 Heat 2 tablespoons of oil in a large casserole pan over a medium heat. and add the vegetables and herbs. Toss everything in the oil to coat, then season.
 Cook, covered, for 10 minutes, or until the veg is softening, stirring occasionally. Transfer to a plate.
@@ -249,23 +249,23 @@ Stir in the brown sugar. Bring to the boil, then cover and simmer for about 2 ho
 Cook the potatoes in a large pan of boiling salted water, then drain.
 Mash with the milk, butter and a pinch of sea salt and black pepper.
 Preheat the oven to 200ºC/400ºF/gas 6.
-Put the meat in an ovenproof dish, top with the mash and drizzle with oil. 
+Put the meat in an ovenproof dish, top with the mash and drizzle with oil.
 Bake for 20 minutes, or until golden and crisping up.
 
 
 ### jjatte
 
-##Slow-Cooker Chicken Tortilla Soup
+## Slow-Cooker Chicken Tortilla Soup
 
-####Directions
+#### Directions
 1 Spray 5- to 6-quart slow cooker with cooking spray. In 12-inch nonstick skillet, heat oil over medium-high heat. Add chicken to skillet; sprinkle with salt and pepper. Cook 4 minutes, turning once, until browned on both sides. Place chicken in slow cooker. Add water, broth, tomatoes, corn, enchilada sauce, onion, green chiles, cumin and chili powder.
 2 Cover; cook on Low heat setting 4 hours or until chicken is tender. Remove chicken from slow cooker to plate; shred using 2 forks. Return chicken to slow cooker. Stir in cilantro. Cover; cook 30 minutes longer. Top each serving with 1/2 cup crushed tortilla chips and 1 tablespoon sour cream.
 
 
-#Tortilla Soup Recipe
-###Viktor
+# Tortilla Soup Recipe
+### Viktor
 
-##Ingredients 
+## Ingredients
 
 INGREDIENTS
 
@@ -291,23 +291,22 @@ Lime wedges, for serving
 
 --------------------------
 
-##BriitaniDesign
+## BriitaniDesign
 
-###Over Easy Eggs
+### Over Easy Eggs
 2 eggs
 Pinch of Salt and Pepper
- 
+
  ####Instructions
  Crack egg in hot oiled pan on stove. Let it cook till whites are hard then flip over. Let cook for 30 seconds then serve.
 
 
-##BriitaniDesign
+## BriitaniDesign
 
-###Fry Cheese
+### Fry Cheese
 
 Block of Cheese
 Pinch of Salt and Pepper
 
-####Instructions
-Pleace block of cheese in hot pan on stove. Let it cook till it bubbles and gets brown on the edges. Then then flip over. Let cook for 30 seconds then serve. Yum!
-
+#### Instructions
+Place block of cheese in hot pan on stove. Let it cook till it bubbles and gets brown on the edges. Then then flip over. Let cook for 30 seconds then serve. Yum!
