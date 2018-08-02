@@ -301,5 +301,13 @@ Pinch of Salt and Pepper
  Crack egg in hot oiled pan on stove. Let it cook till whites are hard then flip over. Let cook for 30 seconds then serve.
 
 
+##BriitaniDesign
 
+###Fry Cheese
+
+Block of Cheese
+Pinch of Salt and Pepper
+
+####Instructions
+Pleace block of cheese in hot pan on stove. Let it cook till it bubbles and gets brown on the edges. Then then flip over. Let cook for 30 seconds then serve. Yum!
 
