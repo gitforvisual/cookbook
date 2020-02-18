@@ -317,7 +317,7 @@ Place block of cheese in hot pan on stove. Let it cook till it bubbles and gets 
 ## Ingredients
 2 Slices of homemade Whole Wheat Bread
 	(Can substitute store bought wheat or white but not recommended)
-1 mediem white or yellow Onion
+1 medium white or yellow Onion
 1 1/2 cups whole milk (can substitute low fat or 2%)
 
 ### optional
@@ -329,4 +329,4 @@ Serves One.
 Break both slices of bread, one at a time, by pinching between index finger and thumb into medium bowl. Prepare Onion by pealing off outter layer then cut in half. Slice off one slice from large side of one of the halves. Now pour milk into bowl and add optional ingredients, if any. Lay slice of onion on top of bread and serve.
 
 ### Leftovers
-Put leftover onion in suran wrap or storage bag and place in refrigerator for your next bowl of bread & milk and onion, or other recipes.
+Put leftover onion in plastic wrap or storage bag and place in refrigerator for your next bowl of bread & milk and onion, or other recipes.
