@@ -330,3 +330,24 @@ Break both slices of bread, one at a time, by pinching between index finger and 
 
 ### Leftovers
 Put leftover onion in plastic wrap or storage bag and place in refrigerator for your next bowl of bread & milk and onion, or other recipes.
+
+---
+
+## TheMimmi
+
+### Swedish pancakes
+
+#### INGREDIENTS
+- 2dl flour
+- 1 1/2 tsp salt
+- 4 dl mik
+- 2 eggs
+- butter to fry in
+
+#### INSTRUCTIONS
+- Mix flour and salt
+- Whisk in the milk a bit at a time until smooth batter
+- Add the eggs
+- Add batter to meadium heated pan with plenty of butter 
+- Make batter thin and cover the entire pan, flip when golden brown
+
