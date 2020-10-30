@@ -180,7 +180,7 @@ Cover with remaining yogurt mixture. Garnish with peach slices. Refrigerate unti
 
 ### s0ba
 ## Ochazuke
-##### ( Green Tea Over Rice )
+##### ( Green Tea Over Rice)
 
 ##### Ingredients
 
