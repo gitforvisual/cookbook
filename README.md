@@ -151,7 +151,7 @@ Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 mi
 6. When bagels are ready, spread cream cheese all over it.
 7. Eat and repeat.
 
-==========================
+======================================================================
 
 ## Vlastimir Radojevic
 
@@ -176,7 +176,7 @@ Spoon half of the peach slices over the cake. Cover with half of the yogurt mixt
 Place remaining cake squares over the yogurt. Top with peaches, reserving 5 or 6 slices for garnish.
 Cover with remaining yogurt mixture. Garnish with peach slices. Refrigerate until ready to serve.
 
-==========================
+===========================================
 
 ### s0ba
 ## Ochazuke
