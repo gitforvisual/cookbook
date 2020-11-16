@@ -351,3 +351,18 @@ Put leftover onion in plastic wrap or storage bag and place in refrigerator for 
 - Add batter to meadium heated pan with plenty of butter 
 - Make batter thin and cover the entire pan, flip when golden brown
 
+---------------------------------------
+## Peanut butter sandwich
+
+
+#### INGREDIENTS
+2 slices bread
+1 ½ tablespoons peanut butter
+1 ½ tablespoons applesauce
+
+#### INSTRUCTIONS
+Spread peanut butter on one slice of bread, and applesauce on the other slice. Place them together, cut in half, and serve.
+
+
+
+
