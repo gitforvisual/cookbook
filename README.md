@@ -351,3 +351,6 @@ Put leftover onion in plastic wrap or storage bag and place in refrigerator for 
 - Add batter to meadium heated pan with plenty of butter 
 - Make batter thin and cover the entire pan, flip when golden brown
 
+
+### New instructions go here
+
