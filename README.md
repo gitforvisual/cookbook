@@ -321,7 +321,7 @@ Place block of cheese in hot pan on stove. Let it cook till it bubbles and gets 
 1 1/2 cups whole milk (can substitute low fat or 2%)
 
 ### optional
-2 teaspoons of 
+2 teaspoons of
 sugar, brown sugar, or honey
 
 ## Instructions
@@ -348,7 +348,7 @@ Put leftover onion in plastic wrap or storage bag and place in refrigerator for 
 - Mix flour and salt
 - Whisk in the milk a bit at a time until smooth batter
 - Add the eggs
-- Add batter to meadium heated pan with plenty of butter 
+- Add batter to meadium heated pan with plenty of butter
 - Make batter thin and cover the entire pan, flip when golden brown
 
 ---------------------------------------
@@ -402,5 +402,15 @@ STEP 10
 Bake the mince pies for 15-20 mins until golden brown. Leave to cool before releasing them from the muffin trays and dusting with a little more icing sugar before serving.
 
 ----------------------------
+## Sparkling Soda Water
 
+###INGREDIENTS
+1 cup Soda
+1 tablespoon lemon
+3 Dashes of bitters
 
+###INSTRUCTIONS
+Pour Soda water over ice
+Add lemon
+Add bitters
+Stir
