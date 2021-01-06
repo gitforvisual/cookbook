@@ -414,3 +414,20 @@ Pour Soda water over ice
 Add lemon
 Add bitters
 Stir
+
+----------------------------
+## Homemade popsicle
+
+### INGREDIANTES
+  -Favorite Juice
+  -Freezer
+  -Ice Cude Tray
+  -Plastic wrap
+  -Toothpicks 
+
+### Instructions
+Fill each Ice Cude slot with juice, then cover entire tray with platic wrap. 
+Put one tooth pick on each slot, then put tray into freezer. 
+Wait for 1 to 2 hours or until juice is solid.
+Pull out tray from freezer.
+Then serve to special someone.
