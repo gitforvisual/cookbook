@@ -415,4 +415,27 @@ Add lemon
 Add bitters
 Stir
 
-*
+## Blind Baked Humble Pie
+
+### Ingredients
+
+4 cups basic git & github course (M Nischan brand highly recommended)
+4 cups enthusiasm
+8 cups naivete
+0 teaspoons coding experience
+
+### Instructions
+
+Mix all ingredients together to form a batter and beat well. 
+This might be more difficult than anticipated and you may find yourself needing to start from scratch a few times; persevere though as the pie will be well worth it.
+
+Bake at a consistent temperature for anywhere between 1 hour 10 minutes and 20 hours 10 minutes. Times will depend on owner functionality, past experience, and penchant for rabbit holes.
+
+Bon Appetit
+
+
+
+
+
+
+
