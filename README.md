@@ -4,7 +4,7 @@ This is the repo for the Skillshare class Git &amp; Github for Visual Learners.
 
 ## Marc Nischan
 
-### Tortilla soup
+### Tortilla soup.
 
 - Some canola and/or olive oil
 - 1 pound chicken breast tenders, cut into bite-sized pieces
